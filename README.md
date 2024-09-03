@@ -3,7 +3,7 @@
 - 🌱 Currently working with JavaScript for a creative coding project.
 - 💞️ Up for collaboration any time.
 - 🧪 Studying Machine Learning among other interests.
-- 👾 I like Video games particularly challenging ones so some of my projects may be inspired by games.
+- 👾 I like video games particularly challenging and puzzling ones so some of my projects may be inspired by games.
 
 <!---
 clayfur/clayfur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
