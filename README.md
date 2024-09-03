@@ -4,6 +4,7 @@
 - 💞️ Up for collaboration any time.
 - 🧪 Studying Machine Learning among other interests.
 - 👾 I like video games particularly challenging and puzzling ones so some of my projects may be inspired by games.
+- 🎨 I also like art and sketching and design work in general so the sketch on the side is part of that interest.
 
 <!---
 clayfur/clayfur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
